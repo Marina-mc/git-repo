@@ -1,2 +1,5 @@
-print("Hello");
-print("" Add password);
+
+print("Hello")
+print("goodbye)
+print("" Add password)
+
